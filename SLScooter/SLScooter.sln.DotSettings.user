@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1958b38a_002D6c27_002D4133_002D9914_002Df346f348f77e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from ScooterTests.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFile&gt;45B4B280-68BF-4986-9CF2-41CC6A399D53/f:ScooterTests.cs&lt;/ProjectFile&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d63eeb9a_002D4dec_002D4a51_002D8e09_002D3a87aac4f330/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from ScooterTests.cs #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;ProjectFile&gt;45B4B280-68BF-4986-9CF2-41CC6A399D53/f:ScooterTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;3C005373-FF10-4D51-8F82-6D7412FEF4F5/f:ScootersLogicUnitTests.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

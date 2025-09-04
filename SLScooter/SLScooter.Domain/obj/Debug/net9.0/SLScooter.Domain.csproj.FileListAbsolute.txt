@@ -1,0 +1,12 @@
+C:\Checkpoint\SLScooter\SLScooter.Domain\bin\Debug\net9.0\SLScooter.Domain.deps.json
+C:\Checkpoint\SLScooter\SLScooter.Domain\bin\Debug\net9.0\SLScooter.Domain.dll
+C:\Checkpoint\SLScooter\SLScooter.Domain\bin\Debug\net9.0\SLScooter.Domain.pdb
+C:\Checkpoint\SLScooter\SLScooter.Domain\obj\Debug\net9.0\SLScooter.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Checkpoint\SLScooter\SLScooter.Domain\obj\Debug\net9.0\SLScooter.Domain.AssemblyInfoInputs.cache
+C:\Checkpoint\SLScooter\SLScooter.Domain\obj\Debug\net9.0\SLScooter.Domain.AssemblyInfo.cs
+C:\Checkpoint\SLScooter\SLScooter.Domain\obj\Debug\net9.0\SLScooter.Domain.csproj.CoreCompileInputs.cache
+C:\Checkpoint\SLScooter\SLScooter.Domain\obj\Debug\net9.0\SLScooter.Domain.sourcelink.json
+C:\Checkpoint\SLScooter\SLScooter.Domain\obj\Debug\net9.0\SLScooter.Domain.dll
+C:\Checkpoint\SLScooter\SLScooter.Domain\obj\Debug\net9.0\refint\SLScooter.Domain.dll
+C:\Checkpoint\SLScooter\SLScooter.Domain\obj\Debug\net9.0\SLScooter.Domain.pdb
+C:\Checkpoint\SLScooter\SLScooter.Domain\obj\Debug\net9.0\ref\SLScooter.Domain.dll

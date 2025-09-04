@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "SLScooter.Domain\\SLScooter.Domain.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "SLScooter.DataAccess\\SLScooter.DataAccess.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

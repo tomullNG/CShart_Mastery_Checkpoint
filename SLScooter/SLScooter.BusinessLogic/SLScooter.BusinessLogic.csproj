@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SLScooter.DataAccess\SLScooter.DataAccess.csproj" />
+    <ProjectReference Include="..\SLScooter.Domain\SLScooter.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
